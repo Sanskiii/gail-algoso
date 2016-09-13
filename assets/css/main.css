@@ -282,3 +282,9 @@ a:after {
 sm {
 	font-size: 12px;
 }
+
+/* ---mailto & telephone--- */
+.email,
+.tel {
+  color: #59BD7F;
+}
